@@ -1,0 +1,6 @@
+#!e:\study\univ\computer_systems\labs\lab1\venv\scripts\python.exe
+
+from lzw3.decompressor import main
+
+if __name__ == '__main__':
+    main()
